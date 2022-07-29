@@ -1,0 +1,180 @@
+body {
+    background: #262626;
+}
+/* Header */
+header.top-header {
+    background: url(../images/banner.jpg);
+    background-size: cover;
+
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 35px;
+    padding-left: 35px;
+    color: #fff;
+}
+.btn-login a{
+    text-decoration: none;
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    border: #fff solid 1.5px;
+    padding: 15px 40px;
+}
+.btn-login a:hover {
+    background: #fff;
+    color: #262626;
+    transition: 0.5s;
+}
+.btn-login i{
+    color: #fff;
+    padding-left: 20px;
+}
+/* Banner */
+.banner {
+    text-align: center;
+    color: #fff;
+    padding: 200px;
+}
+.banner h1 {
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+.banner p{
+    padding-bottom: 30px;
+}
+.banner a {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    background: #c20d00;
+    padding: 15px 40px;
+
+}
+.banner a:hover {
+    background: #fff;
+    color: #262626;
+    transition: 0.5s;
+}
+.play {
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 50%;
+    background: #fff;
+    color: #c20d00;
+    padding: 20px 27px;  
+    margin-left: 20px;
+}
+.play:hover {
+    background: #c20d00;
+    color: #fff;
+    transition: 0.5s;
+}
+/* Main content */
+.row {
+    padding: 100px 0;
+}
+.item1{
+    background: #fff;
+    padding: 20px;
+}
+.item1 a{
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    background: #c20d00;
+    padding: 13px 18px;
+    border-radius: 50%;
+}
+.item1 span{
+    font-weight: bold;
+    font-size: 25px;
+}
+.item1 p{
+    padding-left: 55px;
+    color: #7a7a8f;
+}
+.star {
+    border-top: solid 1px #7a7a8f;
+}
+.star i{
+    color: #f0ad4e;
+    padding-top: 20px;
+}
+
+.item2{
+    background: #c20d00;
+    color: #fff;
+    padding: 20px;
+}
+.item2 a{
+    display: inline-block;
+    text-decoration: none;
+    color: #c20d00;
+    background: #fff;
+    padding: 13px 18px;
+    border-radius: 50%;
+}
+.item2 span{
+    font-weight: bold;
+    font-size: 25px;
+}
+.item2 p{
+    padding-left: 55px;
+    color: #fff;
+}
+
+.item3{
+    background: #262626;
+    color: #fff;
+    padding: 20px;
+    box-shadow: 1px 1px 15px #1a1a1a;
+}
+.item3 a{
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    background: #c20d00;
+    padding: 13px 18px;
+    border-radius: 50%;
+}
+.item3 span{
+    font-weight: bold;
+    font-size: 25px;
+}
+.item3 p{
+    padding-left: 55px;
+    color: #fff;
+}
+
+
+.item5 {
+    color: #fff;
+    padding-bottom: 20px;
+}
+.item5 h2{
+    font-weight: bold;
+}
+.item5 a{
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    background: #c20d00;
+    padding: 15px 40px;
+}
+.item5 a:hover{
+    background: #fff;
+    color: #262626;
+    transition: 0.5s;
+}
+
+/* footer */
+footer {
+    background: url(../images/serious-woman-using-a-telescopic-sight-for-target-FBHE5T7.jpg);
+    background-size: cover;
+    color: #fff;
+}
+footer p{
+    text-align: center;
+    border-top: #fff solid 1px;
+    padding: 30px;
+}
